@@ -1,0 +1,12 @@
+# Dossiers à ignorer
+node_modules/
+.DS_Store # Fichiers macOS spécifiques
+npm-debug.log* # Logs de npm
+yarn-debug.log* # Logs de yarn
+.vscode/
+.env # Fichier de variables d'environnement locales (si tu en utilises un)
+
+# Autres fichiers temporaires ou générés si tu en as
+dist/
+build/
+*.log

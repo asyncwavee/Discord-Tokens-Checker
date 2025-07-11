@@ -1,0 +1,19 @@
+{
+  "name": "wavee-tocken-checker",
+  "version": "1.0.0",
+  "description": "Un checker de token de compte discord pour vérifier leurs validités",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index"
+  },
+  "keywords": [
+    "Tokens",
+    "token"
+  ],
+  "author": "Wavee (2xokr)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.6.1"
+  }
+}
