@@ -1,5 +1,5 @@
 {
-  "name": "wavee-tocken-checker",
+  "name": "Discord-Tokens-Checker",
   "version": "1.0.0",
   "description": "Un checker de token de compte discord pour vérifier leurs validités",
   "main": "index.js",
