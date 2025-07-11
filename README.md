@@ -1,5 +1,5 @@
 <div style="background-color: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px; border: 2px solid rgba(255, 255, 255, 0.3); box-shadow: 0 0 15px rgba(255, 255, 255, 0.1); margin-bottom: 20px; color: #eee; font-family: 'Oswald', 'Arial Narrow', sans-serif;">
-<h1 style="color: #fff; text-align: center; font-size: 2.5em; margin-top: 0; font-family: 'Oswald', 'Arial Narrow', sans-serif;">Discord Token Checker</h1>
+<h1 style="color: #fff; text-align: center; font-size: 2.5em; margin-top: 0; font-family: 'Oswald', 'Arial Narrow', sans-serif;">Discord Tokens Checker</h1>
 <p style="text-align: center; font-size: 1.1em; line-height: 1.5; font-family: 'Oswald', 'Arial Narrow', sans-serif;">Ce projet est un outil simple et efficace conçu pour vérifier la validité d'une liste de tokens Discord. Il permet d'identifier rapidement quels tokens sont toujours actifs et fonctionnels, ce qui peut être utile pour la gestion de comptes ou l'audit.</p>
 </div>
 
